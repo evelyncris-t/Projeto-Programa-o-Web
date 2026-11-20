@@ -3,7 +3,7 @@ name = "fast-api"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Evelyn Cristina",email = "evelyn0904271123@gmail.com"}
+    {name = "Ana Vitoria",email = "decarvalhoanavitoria29@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.11"
